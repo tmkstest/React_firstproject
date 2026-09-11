@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "HTML stands for?",
+        "optionA": "HyperText Markup Language",
+        "optionB": "HyperText Mark Language",
+        "optionC": "HyperText Markup Learn",
+        "optionD": "Hyper Markup Language",
+        "answer": "optionA"
+    },
+    {
+        "prompt": "JS stands for?",
+        "optionA": "HyperText Markup Language",
+        "optionB": "CSS",
+        "optionC": "TypeScript",
+        "optionD": "JavaScript",
+        "answer": "optionD"
+    },
+    {
+        "prompt": "CSS stands for?",
+        "optionA": "Cascading Style Sheets",
+        "optionB": "Cascading Sheet Styles",
+        "optionC": "Colorful Style Sheets",
+        "optionD": "Computer Style Sheets",
+        "answer": "optionA"
+    },
+    {
+        "prompt": "Which HTML element is used for the largest heading?",
+        "optionA": "<h1>",
+        "optionB": "<h2>",
+        "optionC": "<h3>",
+        "optionD": "<h4>",
+        "answer": "optionA"
+    },
+    {
+        "prompt": "Which symbol is used to select classes in CSS?",
+        "optionA": "#",
+        "optionB": ".",
+        "optionC": "*",
+        "optionD": "&",
+        "answer": "optionB"
+    }
+]
